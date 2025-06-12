@@ -33,3 +33,9 @@ chocolate_sales.xlsx – cleaned and prepared Excel data
 03_queries.sql – SQL queries: filters, groups, sorts, window functions, joins, cumulative sums, etc.
 
 Dashboard.pbix – final interactive Power BI report
+
+## Dataset
+
+The dataset used in this project comes from Kaggle:  
+**Chocolate Sales** — [https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales](https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales)
+
