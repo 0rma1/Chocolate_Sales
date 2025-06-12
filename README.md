@@ -24,14 +24,12 @@ Power BI Desktop – data visualization and dashboard creation
 
 Project Structure
 
-chocolate_sales_cleaned.xlsx – cleaned and prepared Excel data
+chocolate_sales.xlsx – cleaned and prepared Excel data
 
 01_chocolate_sales.sql – SQL script to create relational tables
 
 02_insert_data.sql – insert statements based on cleaned data
 
-03_queries.sql – base-level SQL queries (filters, groups, sorts)
+03_queries.sql – SQL queries: filters, groups, sorts, window functions, joins, cumulative sums, etc.
 
-04_queries_advanced.sql – advanced SQL: window functions, joins, cumulative sums, etc.
-
-PowerBI_dashboard.pbix – final interactive Power BI report
+Dashboard.pbix – final interactive Power BI report
